@@ -2,7 +2,7 @@
 #define FONTS_H
 
 #include <fontconfig/fontconfig.h>
-#include <freetype/ft2build.h>
+#include <freetype2/ft2build.h>
 #include FT_FREETYPE_H
 #include FT_CACHE_H
 
